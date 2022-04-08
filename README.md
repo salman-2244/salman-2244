@@ -2,7 +2,7 @@
 
 <!-- markdownlint-disable MD033 MD041-->
 
-  <h3 align="center">Hi there 👋</h3> 
+  <h3>Hi there 👋</h3> 
 <p align="center"> 
 </p>
 
