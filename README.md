@@ -3,9 +3,6 @@
 <!-- markdownlint-disable MD033 MD041-->
 
   <h3>Hi there 👋</h3> 
-<p align="center"> 
-</p>
-
 
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+Github!;&font=Fira%20Code&center=true&width=380&height=50">
 
